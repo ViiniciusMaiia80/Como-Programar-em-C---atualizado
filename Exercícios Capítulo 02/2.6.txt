@@ -1,0 +1,25 @@
+2.6 - Identifique e corrija os erros em cada uma das seguintes instruções:
+ a) printf( “O valor é %d\n”, &número );
+ Erro: o operador de endereço & na função de saída e o acento agudo 
+ Solução: printf("O valor é %d\n", numero);
+
+ b) scanf( “%d%d”, &número1, número2 );
+ Erro: falta o operador de endereçamento para a segunda variável e acentuação nas variáveis número1 e número2
+ Solução: scanf("%d%d", &numero1, &numero2);
+
+ c) if ( c < 7 );{ 
+        printf( “C é menor que 7\n” ); 
+    }
+ Erro: o ponto e vírgula após o fechamento do parêntese de condição
+ Solução: if( c < 7 ){
+            printf( "C é menor que 7\n" );
+        }
+
+ d) if ( c => 7 ) { 
+        printf( “C é igual ou menor que 7\n” ); 
+    }
+
+Erro: o operador relacional => está na ordem inversa
+Solução: if( c >= 7 ){
+            printf( "C é igual ou menor que 7\n" );
+        }

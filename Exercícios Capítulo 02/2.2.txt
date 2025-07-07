@@ -1,0 +1,45 @@
+ 2.2 Indique se cada uma das sentenças a seguir é verdadeira ou falsa.
+Explique sua resposta no caso de alternativas falsas. 
+a) A função printf sempre começa a imprimir no 
+início de uma nova linha.
+R= FALSO, A FUNÇÃO CONTINUA NA LINHA DO CURSOR.
+
+ b) Comentários fazem com que o computador imprima na tela
+ o texto delimitado por /* e */ quando o programa é executado.
+R= COMENTÁRIOS NÃO SÃO EXECUTÁVEIS. O COMPILADOR CONVERTE ESSE BLOCO COMO TEXTO.
+
+ c) A sequência de escape \n, quando usada em uma string de controle 
+ de formato de printf, faz com que o cursor se posicione no início
+ da próxima linha na tela.
+R= VERDADEIRO. NEXT LINE
+
+ d) Todas as variáveis precisam ser declaradas antes de
+serem usadas.
+R= VERDADEIRO
+
+ e) Todas as variáveis precisam receber um tipo ao serem declaradas.
+R= VERDADEIRO
+
+ f) C considera as variáveis número e NúMeRo idênticas.
+R=FALSO, A LINGUAGUEM CONTÉM CASE SENSITIVE
+ 
+ g) Declarações podem aparecer em qualquer parte do 
+corpo de uma função.
+R= FALSO, SÃO DECLARADAS LOGO APÓS A CHAVE DE INÍCIO DO BLOCO ({)
+
+ h) Todos os argumentos após a string de controle de 
+formato em uma função printf precisam ser precedidos por (&).
+R= NORMALMENTE VERDADEIRO, EXCETO NO INICIO DO VETOR (SCANF("%d"), vetor[])
+
+ i) O operador módulo (%) só pode ser usado com operandos inteiros.
+R= FALSO, APENA RETORNA O NUMERO INTEIRO,MESMO COM OPERANDOS COM PONTO FLUTUANTE.
+
+ j) Os operadores aritméticos *, /, %, + e – têm o mesmo nível de precedência.
+R= FALSO, A PRECEDÊNCIA EH 1º(*,/,%) E 2º (+, -)
+ k) Os nomes das variáveis a seguir são idênticos em todos os sistemas C padrão.
+ esteéumnúmerosuperhiperlongo1234567
+ esteéumnúmerosuperhiperlongo1234568
+R= VERDADEIRO, POIS O LIMITE DE CARACTERE PARAVARIAVEL EH 31;
+
+ l)Um programa que exibe três linhas de saída precisa conter três instruções printf.
+R= FALSO, A SAÍDA EM 3 LINHAS PODE SER FEITO EM APENAS UMA INSTRUÇÃO PRINTF("A\nA\nA)
