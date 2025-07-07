@@ -1,0 +1,38 @@
+1.5-Preencha os espaços em cada uma das seguintes sentenças:
+ a) Qual unidade lógica do computador recebe informa
+ções de fora para serem usadas por ele? ______.
+R= UNIDADE DE ENTRADA
+ b) O processo de instruir o computador para resolver 
+problemas específicos é chamado de ______.
+R= PROGRAMA
+ c) Que tipo de linguagem de computador usa abrevia
+ções em inglês para as instruções em linguagem de 
+máquina? ______.
+R= ASSEMBLY OU MONTAGEM
+ d) Qual unidade lógica do computador envia informa
+ções que já foram processadas por ele para diversos 
+dispositivos, de modo que as informações possam 
+ser usadas fora dele? ______.
+R= UNIDADE DE SAÍDA
+ e) Quais unidades lógicas do computador retêm infor
+mações? ______.
+R= UNIDADE DE MEMÓRIA E ARMAZENAMENTO
+ f) Qual unidade lógica do computador realiza cálculos? 
+______.
+R= UNIDADE LÓGICA ARITMÉTICA
+ g) Qual unidade lógica do computador toma decisões 
+lógicas? ______.
+R= ULA
+
+h) O nível de linguagem de computador mais conve
+niente para a elaboração rápida e fácil de programas 
+é ______.
+R= LINGUAGEM DE ALTO NÍVEL
+
+ i)A única linguagem que um computador entende com 
+clareza é a chamada ______ desse computador.
+R= LINGUAGEM DE MÁQUINA
+j) Qual unidade lógica do computador coordena as 
+atividades de todas as outras unidades lógicas? 
+______.
+R= UNIDADE CENTRAL DE PROCESSAMENTO.

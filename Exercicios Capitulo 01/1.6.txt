@@ -1,0 +1,8 @@
+1.6 Indique se as sentenças a seguir são verdadeiras ou falsas.
+Explique sua resposta caso a resposta seja falsa.
+ a) Linguagens de máquina geralmente são dependentes da máquina.
+ R= VERDADEIRO
+ b) Assim como outras linguagens de alto nível, C ge
+ralmente é considerada como independente da má
+quina.
+R= VERDADEIRO

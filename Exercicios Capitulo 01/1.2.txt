@@ -1,0 +1,18 @@
+ 1.2 Preencha os espaços em cada uma das sentenças a res
+peito do ambiente C.
+ a) Programas em C são normalmente digitados em um 
+computador utilizando-se um programa ______.
+R= PROGRAMA EDITOR
+ b) Em um sistema C, um programa ______ é executado automaticamente antes que se inicie a fase de tradução.
+R= PRÉ-PROCESSADOR
+ c) Os tipos mais comuns de diretivas de pré-processador são utilizados para ______ e ______.
+ R= INCLUIR ARQUIVOS EXTERNOS E DEFINIR SUBSTITUIÇÕES DE CARACTERES
+ d) O programa ______ combina a saída do compilador com várias funções de biblioteca para produzir uma imagem executável.
+ R= PROGRAMA DE LIGAÇÃO/LINKER
+ e) O programa ______ transfere a imagem executável 
+do disco para a memória.
+R= PROGRAMA CARREGADOR
+ f) Para carregar e executar o programa compilado 
+mais recentemente em um sistema Linux, digite 
+______
+R= 

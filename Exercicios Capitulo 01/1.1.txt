@@ -1,0 +1,17 @@
+ 1.1 Preencha os espaços em cada uma das seguintes sentenças:
+ a) A empresa que popularizou a computação pessoal foi ______. 
+ R = Apple
+  b) O computador que tornou a computação pessoal possível no comércio e na indústria foi o ______.
+ R= IBM
+ c) Computadores processam dados sob o controle de conjuntos de instruções chamadas ______ de computador. 
+ R=PROGRAMAS
+ d) As seis unidades lógicas do computador são ______, ______, ______, ______, ______ e 
+______.     R=ENTRADA;SAÍDA;MEMÓRIA;ULA;UCP;ARMAZENAMENTO;
+ e) Os três tipos de linguagem que discutimos são ______, ______ e ______. 
+R= LINGUAGEM DE MÁQUINA, ASSEMBLY E ALTO nível 
+ f) Os programas que traduzem programas em linguagem de alto nível na linguagem de máquina são chamados de ______. 
+R=MONTAGEM/ASSEMBLY
+ g) C é bastante conhecida como a linguagem de desenvolvimento do sistema operacional ______.
+R=UNIX
+ h) O Department of Defense (Departamento de Defesa)desenvolveu a linguagem Ada com uma capacidade chamada de______, que permite que os programadores especifiquem as atividades que podem ocorrer em paralelo.
+ R=MULTITAREFA

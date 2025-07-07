@@ -1,0 +1,14 @@
+1.7 Explique o significado dos termos a seguir:
+São ponteiros de estruturas do tipo FILE.
+ a) stdin:
+R=      É o canal de entrada padrão do pc. Pode ser obtido através das funções scanf(), fgets(), getchar();
+    pode ser redirecionado para ler um arquivo.
+
+ b) stdout:
+R=      É o canal de saída padrão do pc. É utilizado através de printf() ou puts().
+    Pode ser redirecionado para gravar algum arquivo ou outro dispositivo de saída.
+
+ c) stderr
+R=      É a saida de mensagem de erro do pc que também aparece no console, como stdout.
+    Essencial para separar as mensagens de erro das de saída padrão.
+    fprintf(stderr, ".......", variavel)

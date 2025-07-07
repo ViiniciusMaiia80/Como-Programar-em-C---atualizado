@@ -1,0 +1,10 @@
+1.4 Por que você escreveria um programa em uma linguagem 
+independente de máquina em vez de em uma linguagem 
+dependente da máquina? Por que uma linguagem depen
+dente de máquina poderia ser mais apropriada para a 
+escrita de certos tipos de programas?
+
+Um programa independente de maquina seria mais eficiente por conta da portabilidade entre sistemas operacionais e também
+pelas grandes quantidades de linhas de código processadas.
+Já para sitemas embarcados a linguagem dependente seria mais apropriada, pois serão específicos para o hardware e arquitetura de sistema
+ 

@@ -1,0 +1,7 @@
+1.3 Categorize os seguintes itens como hardware ou software:
+ a) CPU     R= hardware
+ b) compilador C++ R=software
+ c) ALU R= hardware
+ d) pré-processador C++ R= software
+ e) unidade de entrada R=hardware
+ f) um programa editor R= software
