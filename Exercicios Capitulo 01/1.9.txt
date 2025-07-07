@@ -1,0 +1,31 @@
+1.9-Qual linguagem de programação é mais bem descrita por 
+cada uma das seguintes sentenças?
+ a) Desenvolvida pela IBM para aplicações científicas e 
+de engenharia.
+R=  FORTRAN
+
+ b) Desenvolvida especificamente para aplicações comerciais.
+R=  COBOL
+
+ c) Desenvolvida para o ensino de programação estruturada.
+R=  PASCAL
+
+ d) Seu nome homenageia a primeira pessoa a programar um computador no mundo.
+R=  ADA
+
+ e) Desenvolvida para familiarizar iniciantes com as técnicas de programação.
+R=  BASIC
+
+ f) Desenvolvida especificamente para ajudar os programadores a migrar para .NET.
+R= VISUAL .NET
+
+ g) Conhecida como a linguagem de desenvolvimento 
+do UNIX.
+R=  C
+
+ h) Formada, principalmente, pela inclusão da programação orientada a objetos à linguagem C.
+R=  C++
+
+ i) Inicialmente, teve sucesso devido à sua capacidade 
+de criar páginas Web com conteúdo dinâmico.
+R=JAVASCRIPT
