@@ -1,0 +1,12 @@
+2.14 Dada a equação y = ax^3 + 7, quais das seguintes alter
+nativas são instruções em C corretas para essa equação 
+(se houver alguma)?
+ a) y = a * x * x * x + 7;
+ b) y = a * x * x * ( x + 7 );
+ c) y = ( a * x ) * x * ( x + 7 );
+ d) y = ( a * x ) * x * x + 7;
+ e) y = a * ( x * x * x ) + 7;
+ f) y = a * x * ( x * x + 7 );
+
+ RESPOSTA: A LETRA E DEFINE MELHOR A EQUAÇÃO POIS RESPEITA A PRECEDÊNCIA ARITMÉTICA
+ CORREÇÃO: AS LETRAS A e D TAMBÉM REPRESENTAM A EQUAÇÃO

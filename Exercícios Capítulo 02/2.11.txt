@@ -1,0 +1,13 @@
+2.11- Preencha os espaços de cada sentença:
+ a) Que operações aritméticas estão no mesmo nível de 
+precedência da multiplicação? ______
+R= / e %
+ b) Quando os parênteses são aninhados, qual conjunto 
+de parênteses é avaliado em primeiro lugar em uma expressão aritmética? ______.
+R= de acordo com a precedência é o conjunto de parênteses mais interno e da esquerda para direita conforme associatividade;
+
+ c) Uma posição na memória do computador que pode 
+conter diferentes valores em vários momentos 
+durante a execução de um programa é chamada  
+de ______.
+R= Variável

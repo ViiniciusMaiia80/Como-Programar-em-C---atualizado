@@ -1,0 +1,11 @@
+2.8- Preencha os espaços nas seguintes sentenças:
+ a) ______ são usados para documentar um programa e melhorar sua legibilidade. 
+ R= COMENTÁRIOS
+b) A função usada para exibir informações na tela é ______.
+ R= PRINTF()
+ c) Uma instrução C responsável pela tomada de decisão é ______.
+ R= IF/ELSE
+ d) Os Cálculos normalmente são realizados por instruções ______.
+ R= ARITMÉTICA
+ e) A função ______ lê valores do teclado.
+ R= SCANF()

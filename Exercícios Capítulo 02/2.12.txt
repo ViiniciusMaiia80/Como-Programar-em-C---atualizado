@@ -1,0 +1,20 @@
+2.12- O que é exibido quando cada uma das seguintes instruções é executada? Se nada for exibido,
+então responda ‘Nada’. Considere que x = 2 e y = 3.
+ a) printf( “%d”, x );
+  Saída: 2
+ b) printf( “%d”, x + x );
+  Saída: 4
+ c) printf( “x=” );
+  Saída: x=
+ d) printf( “x=%d”, x );
+  Saída: x=2
+ e) printf( “%d = %d”, x + y, y + x );
+  Saída: 5 = 5
+ f) z = x + y; 
+  Saída: nada, porém atribui a soma de x e y ao z
+ g) scanf( “%d%d”, &x, &y ); 
+  Saída: nada, apenas lê as variáveis x e y;
+ h) /* printf( “x + y = %d”, x + y ); */
+  Saída: nada, a linha é um comentário.
+ i) printf( “\n” );
+  Saída: move o cursor para a próxima linha;

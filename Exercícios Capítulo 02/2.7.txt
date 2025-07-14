@@ -1,0 +1,46 @@
+2.7-Identifique e corrija os erros cometidos em cada uma 
+das instruções. (Nota: pode haver mais de um erro por instrução.)
+
+ a) scanf( “d”, valor );
+ Erro: Não possui o caractere de conversão na string de controle de formato e a falta do operador de endereçamento & no argumento
+ Solução: scanf( "%d", &valor);
+
+ b) printf( “O produto de %d e %d é %d”\n, x, y );
+ Erro: o caractere de escape \n está fora da string de controle de formato e falta o terceiro argumento.
+ Solução: printf( "O produto de %d e %d é %d\n",x,y, resultado);
+
+ c) primeiroNúmero + segundoNúmero = somaDosNúmeros
+ Erro: aassociatividade do operador de atribuição é feito da direita para esquerda e falta finalizar a instrução com ;
+ Solução: somaDosNúmeros = primeiroNúmero + segundoNúmero;
+
+ d) if ( número => maior ) 
+maior == número;
+Erro: nome da variável com acentuação e o operador relacional na condição if está na ordem inversa
+Solução: if(numero>=maior)
+            maior == numero;
+
+ e) */ Programa para determinar o maior 
+dentre três inteiros /*
+Erro: Os comentários estão definidos de forma errada.
+Solução: /* Programa para determinar o maior dentre três inteiros;
+ f) Scanf( “%d”, umInteiro );
+ Erro: a primeira letra da função está em letra maiúscula, case sensitive, e falta o operador de endereço & no argumento;
+ Solução: scanf("%d", &umInteiro );
+
+ g) printf( “Módulo de %d dividido por %d é\n”, x, y, x % y );
+ Erro: A quantidade de especificadores de conversão não i igual a quantidade de argumentos;
+ Solução: printf( "Módulo de %d divido por %d é %d\n", x, y, x%y);
+
+ h) if ( x = y ); 
+printf( %d é igual a %d\n”, x, y );
+Erro: ponto e vírgula após o parêntese de condição if e falta uma aspas na string de controle de formato da função printf();
+Solução: if( x = y)
+            printf(" %d é igual a %d\n”, x, y );
+ 
+ i) print( “A soma é %d\n,” x + y );
+ Erro: a função print declarada errada e a virgula que separa os argumentos da string de controle de formato está dentro das aspas
+ Solução: printf( "A soma é %d\n", x + y );
+
+j) Printf( “O valor que você digitou é: %d\n, &valor );
+Erro: primeira letra da função printf é maiúscula, falta fechar as aspas da string de controle de formato e a presença do operador de endereço &
+Solução: printf( "O valor que você digitou é: %d\n", valor);

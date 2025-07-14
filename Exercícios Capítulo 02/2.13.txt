@@ -1,0 +1,7 @@
+2.13-Quais das seguintes instruções em C contêm variáveis 
+cujos valores são substituídos?
+ a) scanf( “%d%d%d%d%d”, &b, &c, &d, &e, &f ); VARIÁVEIS SOBRESCRITAS
+ b) p = i + j + k + 7; P EH SOBRESCRITO PELA SOMA DOS ELEMENTOS MAIS 7;
+ c) printf( “Valores são substituídos” );   NÃO HÁ SUBSTITUIÇÃO
+ d) printf( “a = 5” );  NÃO HÁ SUBSTITUIÇÃO
+ 
